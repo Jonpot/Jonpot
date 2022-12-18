@@ -14,8 +14,9 @@ Here are some of the projects I am currently working on:
 # 📫 Contact Me
 The best ways to reach me are via email (jonathanpotter18 at gmail dot com) or Discord (Jonpot#9988).
 
-#Other Information
+# Other Information
 I am currently a full-time student and am interested in internships and opportunities for the Summer of 2023.
+
 <!---
 Jonpot/Jonpot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
