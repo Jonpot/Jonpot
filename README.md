@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi, I'm Jon! I'm an undergraduate researcher at UC Davis, studying Biosystems Engineering and Microbiology and Molecular Genetics. In my spare time, I enjoy pursuing computer science as a hobby. I have experience with Python, MATLAB, and TensorFlow, and I am currently a TA for the Intro to Python class at UC Davis.
+Hi, I'm Jon! I'm an graduate researcher at Carnegie Mellon studying Automated Science. In my spare time, I enjoy pursuing computer science as a hobby. I have experience with Python, Go, MATLAB, and TensorFlow.
 
 # 🌱 Current Projects
 Here are some of the projects I am currently working on:
@@ -7,6 +7,8 @@ Here are some of the projects I am currently working on:
 - **D&DAV:** An audio-visual dashboard for my D&D games, written in Python and using obsidian.md as a renderer.
 - **DegranQuant:** A machine learning model to count activated granules in neutrophils, written in Python using TensorFlow and numpy.
 - **Dicecloud:** An open-source, real-time character sheet for D&D 5e, written in Vue and JavaScript.
+- **HYDRO:** A closed-loop automated hydroponics system that balances ions in a nutrient maintank.
+- **Ten:** A tetherless fluid handling robot for performing microbiology and molecular genetics experiments.
 
 # 👀 Online Profiles
 - LinkedIn: https://www.linkedin.com/in/jon-p-34ba2a129/
