@@ -14,7 +14,7 @@ Here are some of the projects I am currently working on:
 - LinkedIn: https://www.linkedin.com/in/jon-p-34ba2a129/
 
 # 📫 Contact Me
-The best ways to reach me are via email (jonathanpotter18 at gmail dot com) or Discord (Jonpot#9988).
+The best ways to reach me are via email (jonathanpotter18 at gmail dot com) or Discord (@Jonpot).
 
 # Other Information
 I am currently a full-time student and am interested in internships and opportunities for the Summer of 2023.
